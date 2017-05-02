@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "text": "Json item 1",
+        "done": false
+    },
+    {
+        "id": 2,
+        "text": "Json item 2",
+        "done": true
+    },
+    {
+        "id": 3,
+        "text": "Json item 3",
+        "done": false
+    }
+]
